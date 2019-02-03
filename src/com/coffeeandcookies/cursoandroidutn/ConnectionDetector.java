@@ -26,6 +26,8 @@ public class ConnectionDetector {
 						return true;
 					}
 
+		}else{
+			android.widget.Toast.makeText(_context, "no hay conexion a internet", Toast.LENGTH_SHORT).show();
 		}
 		return false;
 	}

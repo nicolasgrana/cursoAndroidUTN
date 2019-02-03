@@ -9,4 +9,5 @@ public class Configuracion
 	public static String mail = "mail";
 	public static String dbName = "UsuariosBD1";
 	public static int dbVersion = 1;
+	public static final String PEPE = "PEPE";
 }

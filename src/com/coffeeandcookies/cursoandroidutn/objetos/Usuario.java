@@ -2,10 +2,10 @@ package com.coffeeandcookies.cursoandroidutn.objetos;
 
 public class Usuario
 {
-	String user;
-	String pass;
-	String email;
-	int edad;
+	private String user;
+	private String pass;
+	private String email;
+	private int edad;
 	
 	public Usuario()
 	{
