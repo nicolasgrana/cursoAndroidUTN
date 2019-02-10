@@ -18,3 +18,9 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+.idea/vcs.xml
+.idea/cursoAndroidUTN.iml
+.idea/workspace.xml
+.idea/codeStyles/Project.xml
+.idea/misc.xml
+.idea/modules.xml
