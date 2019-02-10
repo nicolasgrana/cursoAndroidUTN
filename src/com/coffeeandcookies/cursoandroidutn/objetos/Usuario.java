@@ -6,6 +6,7 @@ public class Usuario
 	private String pass;
 	private String email;
 	private int edad;
+	private String nacionalidad;
 	
 	public Usuario()
 	{
@@ -50,5 +51,13 @@ public class Usuario
 	
 	public void setEmail(String email) {
 		this.email = email;
+	}
+
+	public void setNacionalidad(String nacionalidad) {
+		this.nacionalidad = nacionalidad;
+	}
+
+	public String getNacionalidad() {
+		return nacionalidad;
 	}
 }
